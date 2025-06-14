@@ -11,4 +11,5 @@
   :profiles {:test {:dependencies [[mock-clj "0.2.1"]]
                     :resource-paths ["test/resources"]}}
   :plugins [[org.clojars.jj/bump "1.0.4"]
+            [org.clojars.jj/bump-md "1.0.0-SNAPSHOT"]
             [org.clojars.jj/strict-check "1.0.2"]])
