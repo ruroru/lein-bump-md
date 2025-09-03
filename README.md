@@ -6,7 +6,7 @@ A leiningen plugin to bump project version in a README.md file
 
 ## Installation
 ```clojure
-[org.clojars.jj/bump-md "1.0.0"]
+[org.clojars.jj/bump-md "1.1.0"]
 ```
 
 ## Usage

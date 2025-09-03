@@ -1,4 +1,4 @@
-(defproject org.clojars.jj/bump-md  "1.0.1-SNAPSHOT"
+(defproject org.clojars.jj/bump-md  "1.1.0"
   :description "A leiningen plugin to bump project version in README.md"
   :url "https://github.com/ruroru/lein-bump-md"
   :license {:name "EPL-2.0"
